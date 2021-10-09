@@ -1,0 +1,6 @@
+{
+    "name": "daisyui",
+    "extends": "",
+    "asset-path": "daisyui",
+    "views-path": "daisyui"
+}
