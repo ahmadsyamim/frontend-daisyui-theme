@@ -1,0 +1,24 @@
+{
+    "name": "ahmadsyamim/frontend-daisyui-theme",
+    "title": "daisyui",
+    "description": "",
+    "type": "laravel-module-theme",
+    "authors": [
+        {
+            "name": "Ahmad Syamim",
+            "email": "ahmad.syamim@gmail.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [],
+            "aliases": {
+            }
+        }
+    },
+    "require": {
+    },
+    "scripts": {
+        "dist": "tar -cvzf ./dist/daisyui.theme.tar.gz -C ./src ."
+    }
+}

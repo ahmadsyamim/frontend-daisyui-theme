@@ -1,5 +1,6 @@
 {
     "name": "daisyui",
+    "package_name": "ahmadsyamim/frontend-daisyui-theme",
     "extends": "",
     "asset-path": "daisyui",
     "views-path": "daisyui"
